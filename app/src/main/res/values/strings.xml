@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EventGuideDemo</string>
+    <string name="event">Event</string>
+    <string name="events">Events</string>
+    <string name="loading_events">Loading Events</string>
+    <string name="event_details">EventDetails</string>
+    <string name="colorprimary_text">Here is colorPrimary</string>
+    <string name="calendar_date_picker_result_values">%1$d\\%2$d\\%3$d</string>
+    <string name="action_pick_date">Pick date</string>
+</resources>
